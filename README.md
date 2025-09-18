@@ -1,4 +1,4 @@
-# Trader Performance vs Bitcoin Market Sentiment
+# Trader Performance vs Sentiment
 
 This project analyzes the relationship between trader performance (profitability, risk, volume, leverage)  
 and the Bitcoin Fear & Greed Index. The goal is to uncover hidden patterns that can drive smarter trading strategies.
